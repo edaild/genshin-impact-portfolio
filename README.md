@@ -1,5 +1,5 @@
 # genshin-impact-portfolio
-원신 웹사이트를 hmlt, css, java script 구현해 보았다
+원신 웹사이트를 hmlt, css, java script 구현해 보았다.
 
 # 실행결과
 메인 페이지
